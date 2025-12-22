@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+Pillow
+scikit-learn
+plotly
+mtcnn
+xgboost
+jupyter
+ipykernel
+mtcnn
+tensorflow

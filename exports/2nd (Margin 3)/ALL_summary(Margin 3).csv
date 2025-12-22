@@ -1,0 +1,10 @@
+source_file,image,verdict,winner,advantage_score,confidence,corrected_verdict,corrected_winner,corrected_advantage,corrected_confidence,weighted_score,random_forest,xgboost,svm,statistical,method_consistency,feature_agreement,prediction_strength,feature_quality
+df06_summary,df06,Face 1 (Left) is more authentic,Face 1,0.2327,34.5401,Face 1 (Left) is more authentic,Face 1,0.0770,58.4927,0.1197,-0.1400,0.0000,0.0483,0.2048,-0.0396,0.2500,0.0256,0.2000
+df10_summary,df10,Face 2 (Right) is more authentic,Face 2,0.3898,28.6612,Face 2 (Right) is more authentic,Face 2,0.2542,44.2253,-0.2115,-0.1400,0.0000,0.0483,-0.0865,0.0114,0.1731,0.0243,0.2000
+df01_summary,df01,Face 1 (Left) is more authentic,Face 1,0.1820,22.7577,Face 1 (Left) is more authentic,Face 1,0.0613,58.6181,0.1623,-0.1400,0.0000,0.0483,0.1115,-0.0376,0.1923,0.0231,0.2000
+df08_summary,df08,Face 1 (Left) is more authentic,Face 1,0.0220,11.3289,Face 1 (Left) is more authentic,Face 1,0.0905,54.3058,0.0655,-0.1400,0.0000,0.0483,0.0482,-0.0747,0.1538,0.0151,0.2000
+df09_summary,df09,Face 2 (Right) is more authentic,Face 2,0.0098,8.7317,Face 1 (Left) is more authentic,Face 1,0.0143,45.2015,0.0191,-0.1400,0.0000,0.0483,0.0629,-0.1020,0.1538,0.0135,0.2000
+df07_summary,df07,Face 2 (Right) is more authentic,Face 2,0.0199,8.4507,Face 2 (Right) is more authentic,Face 2,0.0041,44.9957,0.0250,-0.1400,0.0000,0.0483,0.0469,-0.1051,0.1538,0.0130,0.2000
+df05_summary,df05,Face 2 (Right) is more authentic,Face 2,0.2687,7.0740,Face 2 (Right) is more authentic,Face 2,0.1751,52.8089,-0.2482,-0.1400,0.0000,0.0483,0.0712,-0.0598,0.0769,0.0254,0.2000
+df03_summary,df03,Face 2 (Right) is more authentic,Face 2,0.5804,5.4886,Face 2 (Right) is more authentic,Face 2,0.1709,60.4048,-0.4956,-0.1400,0.0000,0.0483,0.0069,-0.1345,0.1154,0.0345,0.2000
+df02_summary,df02,Face 2 (Right) is more authentic,Face 2,0.0516,4.0063,Face 1 (Left) is more authentic,Face 1,0.2724,49.6994,0.0387,-0.1400,0.0000,0.0483,0.0014,-0.1444,0.1154,0.0114,0.2000

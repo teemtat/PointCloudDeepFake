@@ -1,0 +1,11 @@
+source_file,image,verdict,winner,advantage_score,confidence,corrected_verdict,corrected_winner,corrected_advantage,corrected_confidence,weighted_score,random_forest,xgboost,svm,statistical,method_consistency,feature_agreement,prediction_strength,feature_quality
+df06_summary,df06,Face 1 (Left) is more authentic,Face 1,0.3844,32.1468,Face 1 (Left) is more authentic,Face 1,0.0936,60.7332,0.2964,-0.1400,0.0000,0.0483,0.1798,-0.0387,0.2308,0.0332,0.2000
+df07_summary,df07,Face 1 (Left) is more authentic,Face 1,0.1542,22.7104,Face 1 (Left) is more authentic,Face 1,0.1176,57.0219,0.1199,-0.1400,0.0000,0.0483,0.1261,-0.0365,0.1923,0.0217,0.2000
+df10_summary,df10,Face 1 (Left) is more authentic,Face 1,0.1065,20.8235,Face 1 (Left) is more authentic,Face 1,0.0034,48.6190,0.0881,-0.1400,0.0000,0.0483,0.1102,-0.0452,0.1923,0.0193,0.2000
+df02_summary,df02,Face 2 (Right) is more authentic,Face 2,0.2033,18.0037,Face 2 (Right) is more authentic,Face 2,0.0088,39.5965,-0.0017,-0.1400,0.0000,0.0483,-0.1098,-0.0589,0.1923,0.0150,0.2000
+df01_summary,df01,Face 1 (Left) is more authentic,Face 1,0.1406,17.7768,Face 1 (Left) is more authentic,Face 1,0.2235,60.4072,0.1511,-0.1400,0.0000,0.0483,0.0813,-0.0473,0.1731,0.0210,0.2000
+df05_summary,df05,Face 1 (Left) is more authentic,Face 1,0.0937,17.6715,Face 1 (Left) is more authentic,Face 1,0.0298,61.4652,0.0117,-0.1400,0.0000,0.0483,0.1737,-0.1033,0.2308,0.0187,0.2000
+df04_summary,df04,Face 1 (Left) is more authentic,Face 1,0.0887,17.1455,Face 1 (Left) is more authentic,Face 1,0.0082,42.8684,0.0995,-0.1400,0.0000,0.0483,0.0810,-0.0490,0.1731,0.0184,0.2000
+df03_summary,df03,Face 1 (Left) is more authentic,Face 1,0.0553,8.0763,Face 1 (Left) is more authentic,Face 1,0.0750,52.5574,0.1317,-0.1400,0.0000,0.0483,0.0153,-0.0946,0.1346,0.0168,0.2000
+df09_summary,df09,Face 2 (Right) is more authentic,Face 2,0.0236,6.9697,Face 1 (Left) is more authentic,Face 1,0.1406,50.7695,0.0362,-0.1400,0.0000,0.0483,0.0319,-0.1066,0.1346,0.0128,0.2000
+df08_summary,df08,Face 2 (Right) is more authentic,Face 2,0.0743,6.8480,Face 1 (Left) is more authentic,Face 1,0.0757,48.6798,0.0616,-0.1400,0.0000,0.0483,-0.0442,-0.0719,0.0962,0.0147,0.2000

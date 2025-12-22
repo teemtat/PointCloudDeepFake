@@ -1,0 +1,2 @@
+image,verdict,winner,advantage_score,confidence,corrected_verdict,corrected_winner,corrected_advantage,corrected_confidence,weighted_score,random_forest,xgboost,svm,statistical,method_consistency,feature_agreement,prediction_strength,feature_quality
+df42,Face 2 (Right) is more authentic,Face 2,0.33725786137160685,41.13507438440081,Face 1 (Left) is more authentic,Face 1,0.11477821893113338,39.91348929256473,-0.10093350020908279,-0.14,0.0,0.04825059320223888,-0.1445749543647629,0.030935158676070506,0.21153846153846154,0.02168795238880423,0.2
